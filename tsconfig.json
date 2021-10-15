@@ -1,0 +1,10 @@
+{
+    "include": [
+        "dist/number-to-words.js"
+    ],
+    "compilerOptions": {
+        "declaration": true,
+        "emitDeclarationOnly": true,
+        "allowJs": true
+    }
+}
