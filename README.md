@@ -64,7 +64,7 @@ console.log(numberToWords(10));     // "ten"
 console.log(numberToWords(524));    // "five hundred twenty-four"
 ```
 
-The `numberToWords()` function works up to 999 trillion. If you need larger numbers then that, I envy you.
+The `numberToWords()` function works up to 999 trillion. If you need larger numbers than that, I envy you.
 
 ## Developer Setup
 
