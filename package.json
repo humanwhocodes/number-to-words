@@ -1,6 +1,6 @@
 {
   "name": "@humanwhocodes/number-to-words",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Converts a number into English words.",
   "type": "module",
   "main": "dist/number-to-words.cjs",
